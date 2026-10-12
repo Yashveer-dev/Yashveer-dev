@@ -16,7 +16,7 @@
 
 Computer Science undergraduate at **VIT-AP University** (B.Tech CSE, 2028) with a strong core in **Java** and working fluency in Python, JavaScript, C and C++. I ship software end-to-end, from architecture to production deployment, across cloud infrastructure, backend systems and applied machine learning.
 
-Co-founder and sole engineer at **PreneurX**, where I own the full stack with no team to delegate to. Programming is a hobby as much as a profession. I'm driven by curiosity about new languages, frameworks and systems, and I'm eager to bring that same ownership to a team solving harder problems at scale.
+Programming is a hobby as much as a profession. I'm driven by curiosity about new languages, frameworks and systems, and I'm eager to bring that same ownership to a team solving harder problems at scale.
 
 ---
 
@@ -25,9 +25,7 @@ Co-founder and sole engineer at **PreneurX**, where I own the full stack with no
 | | |
 |---|---|
 | 🥇 | **Winner, V-TAPP Hackathon** |
-| 🇮🇳 | **Smart India Hackathon 2026** — Problem Statement SIH25076 |
-| ⚛️ | **Amravati Quantum Valley Hackathon** — Participant |
-| 🚀 | **Co-Founder & Full-Stack Engineer, PreneurX** — built and deployed a production platform solo |
+| 🚀 | **Co-Founder & Full-Stack Engineer, PreneurX** — built and deployed a production platform |
 | 🧠 | **ML Mentorship, LaunchED Global × IIT Kharagpur** — completed |
 
 ---
